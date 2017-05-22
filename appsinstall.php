@@ -70,7 +70,7 @@
 <br><br/>
 <img src="http://1v5499909c.iask.in:8081/apps/apps.png"  width="280" height="280" />
 <br><br/>
-<a href="http://1v5499909c.iask.in:8081/newapps/updatelog.html">
+<a href="http://1v5499909c.iask.in:8081/apps/updatelog.html">
 <input type="button" style="width:150px;height:30px;" value="查看更新日志" name="bt" />
 </a>
 <br><br/>
